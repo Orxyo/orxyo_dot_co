@@ -28,9 +28,6 @@ const Footer: React.FC = () => {
               <a href="mailto:information@orxyo.co" className="block hover:text-blue-500 transition-colors">
                 information@orxyo.co
               </a>
-              <div className="space-y-1">
-                <p className="text-slate-500">Remote operations nationwide</p>
-              </div>
             </div>
           </div>
         </div>
