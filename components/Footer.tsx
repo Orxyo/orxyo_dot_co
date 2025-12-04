@@ -29,7 +29,6 @@ const Footer: React.FC = () => {
                 information@orxyo.co
               </a>
               <div className="space-y-1">
-                <p className="text-slate-300">Headquarters: Los Angeles, CA</p>
                 <p className="text-slate-500">Remote operations nationwide</p>
               </div>
             </div>
